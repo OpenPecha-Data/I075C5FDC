@@ -1,15 +1,16 @@
-id: opecha:P006940
+id: P006940
 initial_creation_type: ocr
 source_metadata:
   id: bdr:W2DB13635
   title: གཙང་སྟོད་ཟིན་ཐིག་དང་ཡང་ཐིག
-  volume:
+  author: ''
+  volumes:
     5bd41102ddf343029230aff15e8b1f38:
       image_group_id: I1PD30941
       title: Volume 1 of gtsang stod zin thig dang yang thig
       volume_number: 1
       total_pages: 710
-  author: ''
+      base_file: v001.txt
 ebook_metadata:
   title: གཙང་སྟོད་ཟིན་ཐིག་དང་ཡང་ཐིག
   author: ''
